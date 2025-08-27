@@ -68,3 +68,6 @@ The goal is to extract **business insights** such as sales performance, customer
 👤 **Pranav Patil**  
 - 📧 Email: pranavpatil6625@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pranav-patil-e03042004)  
+
+## Picture
+- [Image]()
