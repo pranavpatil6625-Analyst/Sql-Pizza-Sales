@@ -69,5 +69,5 @@ The goal is to extract **business insights** such as sales performance, customer
 - 📧 Email: pranavpatil6625@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pranav-patil-e03042004)  
 
-## Picture
-- [Image](https://github.com/pranavpatil6625-Analyst/Sql-Pizza-Sales/blob/main/pizzaSales.png)
+## 📊 Dashboard Preview
+![Picture](https://github.com/pranavpatil6625-Analyst/Sql-Pizza-Sales/blob/main/pizzaSales.png)
