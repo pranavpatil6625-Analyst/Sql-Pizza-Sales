@@ -70,4 +70,4 @@ The goal is to extract **business insights** such as sales performance, customer
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pranav-patil-e03042004)  
 
 ## Picture
-- [Image]()
+- [Image](https://github.com/pranavpatil6625-Analyst/Sql-Pizza-Sales/blob/main/pizzaSales.png)
